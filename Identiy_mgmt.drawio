@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-09T12:59:33.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="GSGxq5nNONxA6x9iLz0l" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-09T13:01:37.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-hG_IFZtBl6iHodl2IMM" version="14.3.0" type="github">
   <diagram id="sxMJ_nap7cBqD4o1403F" name="Page-1">
-    <mxGraphModel dx="920" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,8 +211,8 @@
         <mxCell id="IpSXLrwP37XdnlG8DyKs-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" parent="1" vertex="1">
           <mxGeometry x="718.6" y="144" width="32.81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IpSXLrwP37XdnlG8DyKs-3" value="Azure Active Directory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="682.14" y="174" width="110" height="20" as="geometry" />
+        <mxCell id="IpSXLrwP37XdnlG8DyKs-3" value="Azure Active Directory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="677.14" y="174" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IpSXLrwP37XdnlG8DyKs-87" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=-0.104;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=6;" parent="1" source="IpSXLrwP37XdnlG8DyKs-6" target="25LvW-JFgtDjOyR0rEGd-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -419,6 +419,9 @@
         </mxCell>
         <mxCell id="un5sAC3a2ipCCexAvyBw-9" value="Reader" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="69.99999999999999" y="570" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un5sAC3a2ipCCexAvyBw-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_3_blue-128.png;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="20" y="455.13" width="14" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
